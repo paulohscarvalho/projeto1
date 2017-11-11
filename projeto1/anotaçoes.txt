@@ -1,0 +1,8 @@
+1) Gestão da qualidade
+	Convenções de código
+	Cabeçalho de classe e de método
+	Complexidade ciclomatica < 10
+	
+2) PQ treinamento no uso do CodePro 90% comentado
+
+3) Controle da qualidade revisão/inspeção, teste
